@@ -1,6 +1,6 @@
-# Mine Sweeper Clone
+# Minesweeper Clone
 Build in Python 3.
-The aim is to recreate the legendary mine sweeper game. This is a simpe clone.
+The aim is to recreate the legendary minesweeper game. This is a simpe clone.
 The tile rendering is given as a separate repository here:
 ```sh
 https://github.com/rocku0/Tile-renderer
@@ -40,7 +40,7 @@ To install a libray for python open the command prompt and follow the example be
 $ pip install pygame
 ```
 
-To clone the repository, open the command prompt at the directory of choise and type:
+To clone the repository, open the command prompt at the directory of choice and type:
 ```sh
 $  git clone --recursive https://github.com/rocku0/Minesweeper
 ```
