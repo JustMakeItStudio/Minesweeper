@@ -44,6 +44,12 @@ To clone the repository, open the command prompt at the directory of choice and 
 ```sh
 $  git clone --recursive https://github.com/rocku0/Minesweeper
 ```
+### Screen shots:
+The red colored tiles represent the bombs, while the blue tiles have a number inside them that indicates how many bombs are one tile away, finaly the black tiles have not been not clicked yet.
+
+![image](https://user-images.githubusercontent.com/71210416/111703526-75c70e80-8846-11eb-868f-955ded471241.png)
+
+![image](https://user-images.githubusercontent.com/71210416/111703441-4e704180-8846-11eb-94a5-f96d1db288c3.png)
 
 **Use this as you like**
 
