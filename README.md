@@ -3,7 +3,7 @@ Build in Python 3.
 The aim is to recreate the legendary minesweeper game. This is a simpe clone.
 The tile rendering is given as a separate repository here:
 ```sh
-https://github.com/rocku0/Tile-renderer
+https://github.com/JustMakeItStudio/Tile-renderer
 ```
 
 #### Libraries used:
@@ -42,7 +42,7 @@ $ pip install pygame
 
 To clone the repository, open the command prompt at the directory of choice and type:
 ```sh
-$  git clone --recursive https://github.com/rocku0/Minesweeper
+$  git clone --recursive https://github.com/JustMakeItStudio/Minesweeper
 ```
 ### Screen shots:
 The red colored tiles represent the bombs, while the blue tiles have a number inside them that indicates how many bombs are one tile away, finaly the black tiles have not been not clicked yet.
